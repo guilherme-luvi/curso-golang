@@ -1,3 +1,3 @@
 # Curso Golang
 
-## Exercícios
+Sintaxe e estrutura de dados na linguagem Go
